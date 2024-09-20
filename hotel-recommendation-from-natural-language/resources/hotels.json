@@ -1,0 +1,96 @@
+[
+  {
+    "id": "2804",
+    "name": "Hotel Nuredduna Palma",
+    "description": "Hotel Nuredduna Palma is a luxurious 4-star hotel located in the vibrant city of Palma of Majorca, Spain.Its prime location makes it the perfect choice for business travelers looking for convenience and comfort. The hotel offers a range of business facilities to cater to the needs of its corporate guests.One of the highlights of Hotel Nuredduna Palma is its spectacular rooftop, offering stunning views of the city and the Mediterranean Sea. Whether you are in town for a business meeting or a special event, Hotel Nuredduna Palma provides the perfect setting for a productive and memorable stay.",
+    "country": "Spain",
+    "destination": "Palma of Majorca",
+    "rooms": [
+      {
+        "code": "SGL",
+        "name": "Single room",
+        "description": "Single room with an en-suite bathroom with shower and a private terrace. Enjoy the convenience of a coffee maker with capsules and stay connected with complimentary WiFi. Ideal for solo travelers or couples seeking a comfortable stay.",
+        "max_pax": 2,
+        "max_adults": 2,
+        "max_children": 1
+      },
+      {
+        "code": "DBL",
+        "name": "Double room",
+        "description": "Experience comfort and style in our Double room with a choice of a double bed or two single beds. Enjoy city views and modern amenities including a shower or bathtub, high-speed Wi-Fi, and air-conditioning for a relaxing stay.",
+        "max_pax": 3,
+        "max_adults": 2,
+        "max_children": 2
+      },
+      {
+        "code": "DBS",
+        "name": "Double room sea view",
+        "description": "Enjoy breathtaking sea views from the comfort of the double room. Choose between a double bed or two singles. Stay connected with high-speed Wi-Fi and relax in the shower or bathtub. Perfect for a relaxing getaway.",
+        "max_pax": 3,
+        "max_adults": 2,
+        "max_children": 2
+      }
+    ],
+    "meal_plans": [
+      {
+        "code": "RO",
+        "name": "Room only"
+      },
+      {
+        "code": "BB",
+        "name": "Bed and breakfast"
+      },
+      {
+        "code": "HB",
+        "name": "Half board"
+      }
+    ]
+  },
+  {
+    "id": "2805",
+    "name": "Hotel Nuredduna Lanzarote",    
+    "description": "Located in the beautiful city of Lanzarote, Spain, Hotel Nuredduna is a luxurious 4-star hotel perfect for those looking to relax by the beach. With top-notch facilities including a spa, beauty salon, and tennis court, guests are sure to have a rejuvenating stay.The hotel's prime location offers easy access to the beach, making it an ideal destination for beach lovers. Guests can also enjoy the stunning views from the infinity pool while sipping on their favorite cocktail. For those looking for some excitement, the hotel hosts various events and even has a golf course nearby. Whether you're looking to unwind at the spa, work on your backhand on the tennis court, or simply soak up the sun on the beach, Hotel Nuredduna has something for everyone. Book your stay now and experience the ultimate relaxation in the heart of Lanzarote.",
+    "country": "Spain",
+    "destination": "Lanzarote",
+    "rooms": [
+      {
+        "code": "DLX",
+        "name": "Deluxe Room",
+        "description": "Experience the elegance of the upscale room with a beautiful garden view. Enjoy the comfort of a spacious room with a luxurious bathroom featuring a shower and bathtub. Relax on the terrace and bring your furry friend along with pet-friendly amenities.",
+        "max_pax": 3,
+        "max_adults": 2,
+        "max_children": 2
+      },
+      {
+        "code": "DLF",
+        "name": "Deluxe Family",
+        "description": "Experience the comfort of a spacious room with a garden view. Relax in a luxurious king bed or two single beds. Enjoy the convenience of a coffee maker and capsules. Unwind in the shower or bathtub or step out onto the terrace. Perfect for a family getaway.",
+        "max_pax": 4,
+        "max_adults": 2,
+        "max_children": 2
+      }
+    ],
+    "meal_plans": [
+      {
+        "code": "RO",
+        "name": "Room only"
+      },
+      {
+        "code": "BB",
+        "name": "Bed and breakfast"
+      },
+      {
+        "code": "HB",
+        "name": "Half board"
+      },
+      {
+        "code": "FB",
+        "name": "Full board"
+      },
+      {
+        "code": "AI",
+        "name": "All inclusive"
+      }
+    ]
+  }
+]
